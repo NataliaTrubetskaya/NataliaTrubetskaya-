@@ -3,7 +3,7 @@ Data Analyst | Продуктовый аналитик
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/NataliaTrubetskaya)
 [![Email](https://img.shields.io/badge/Email-nata.tna%40yandex.ru-green?style=flat-square&logo=gmail)](mailto:nata.tna@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%40nati-blue?style=flat-square&logo=telegram)](https://t.me/nati)
+[![Telegram](https://img.shields.io/badge/Telegram-%40nati-blue?style=flat-square&logo=telegram)](https://t.me/truebetsk)
 [![Instagram](https://img.shields.io/badge/Instagram-true_betskaya-purple?style=flat-square&logo=instagram)](https://www.instagram.com/true_betskaya/)
 
 Привет! Я Наталия - аналитик данных со специализацией продуктовый аналитик. 
@@ -52,7 +52,7 @@ Data Analyst | Продуктовый аналитик
 
 *   GitHub: [https://github.com/NataliaTrubetskaya](https://github.com/NataliaTrubetskaya)
 *   Email: [nata.tna@yandex.ru](mailto:nata.tna@yandex.ru)
-*   Telegram: [@nati](https://t.me/nati)
+*   Telegram: [@nati](https://t.me/truebetsk)
 *   Instagram: [true\_betskaya](https://www.instagram.com/true_betskaya/)
 
 **Готова к вызовам:**
