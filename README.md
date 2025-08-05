@@ -1,1 +1,1 @@
-# NataliaTrubetskaya-
+# NataliaTrubetskaya- | Data Analyst | Продуктовый аналитик
